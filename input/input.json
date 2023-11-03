@@ -1,5 +1,5 @@
 {
-    "person": {
+    "expamplePerson": {
         "name": "John Doe",
         "age": 25,
         "isEmployed": true,
