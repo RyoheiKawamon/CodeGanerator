@@ -1,0 +1,63 @@
+{
+    "person": {
+        "name": "John Doe",
+        "age": 25,
+        "isEmployed": true,
+        "address": {
+            "street": "123 Main St",
+            "city": "Springfield",
+            "state": "IL",
+            "postalCode": "62704"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "555-555-5555"
+            },
+            {
+                "type": "work",
+                "number": "555-555-5556"
+            }
+        ],
+        "emailAddresses": [
+            "john.doe@example.com",
+            "jdoe@example.com"
+        ],
+        "familyMembers": [
+            {
+                "relation": "spouse",
+                "name": "Jane Doe"
+            },
+            {
+                "relation": "child",
+                "name": "Jimmy Doe"
+            }
+        ]
+    },
+    "company": {
+        "name": "Acme Corp",
+        "industry": "Manufacturing",
+        "employees": [
+            {
+                "name": "Alice",
+                "position": "Manager"
+            },
+            {
+                "name": "Bob",
+                "position": "Sales"
+            }
+        ]
+    },
+    "products": [
+        {
+            "name": "Widget",
+            "price": 19.99,
+            "categories": ["tools", "home"]
+        },
+        {
+            "name": "Gadget",
+            "price": 29.99,
+            "categories": ["electronics", "home"]
+        }
+    ]
+}
