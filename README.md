@@ -1,0 +1,2 @@
+# CodeGanerator
+dartコードやjsonのモックを作成するコーデジェネレーター。
